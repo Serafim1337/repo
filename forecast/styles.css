@@ -1,11 +1,13 @@
 .weather-forecast {
+  display: flex;
   color: white;
   width: fit-content;
   margin: auto;
 }
 
 .day {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   background-color: cornflowerblue;
   text-align: center;
   margin-right: 10px;
