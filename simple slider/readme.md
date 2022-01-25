@@ -1,1 +1,1 @@
-# [**slider**](https://serafim1337.github.io/repo/simple-slider/index.html)
+# [**slider**](https://serafim1337.github.io/repo/simple%20slider/index.html)
