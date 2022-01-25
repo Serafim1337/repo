@@ -1,0 +1,1 @@
+# [**slider**](https://serafim1337.github.io/repo/simple-slider/index.html)
